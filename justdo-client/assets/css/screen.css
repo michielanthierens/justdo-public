@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+
+}
+
+header {
+    width: 100%;
+    padding: 2rem;
+    background-color: lightskyblue;
+    margin-bottom: 1rem;
+}
+
+header h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+main {
+    width: 100%;
+}
+
+span {
+    text-decoration: underline;
+}
+
+span:hover {
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
